@@ -14,7 +14,7 @@
   <table>
       <td><img src="https://hermes.dio.me/tracks/f5dba255-da18-427a-a02a-ca11a339c1cd.png" width="330" alt="Power Tech Logo"></td>
       <td>
-        <h3><a href="#">Power Tech powered by iFood | Data Science</a></h3>
+        <h3><a href="https://github.com/otaviomuraca/bootcamp-dio/tree/main/potencia-tech-powered-by-ifood">Power Tech powered by iFood | Data Science</a></h3>
         <p>The Tech Power powered by iFood: Data Science with Python is especially aimed at people from low-income and underrepresented groups, but all interested people are welcome! Our goal is to connect you with technologies in high demand in today's market and to be the starting point for your journey in the world of technology.</p>
       </td>
     </tr>
