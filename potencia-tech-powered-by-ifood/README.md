@@ -12,7 +12,7 @@
 
 Here are some of the activities and projects I have developed during the course:
 
-1. **[Creating a Banking System with Python](link_to_project_1)**
+1. **[Creating a Banking System with Python](https://github.com/otaviomuraca/bootcamp-dio/tree/main/potencia-tech-powered-by-ifood/Creating%20a%20Banking%20System)**
  > Description: This code is a Python program that implements a simple banking system, allowing the user to perform operations such as withdrawals, deposits, displaying the account statement, and exiting the system.
 
 
