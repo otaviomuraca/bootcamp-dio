@@ -12,7 +12,7 @@
 
 Here are some of the activities and projects I have developed during the course:
 
-1. **[Creating a Conceptual Database Design – E-COMMERCE](#)**
+1. **[Creating a Conceptual Database Design – E-COMMERCE](https://github.com/otaviomuraca/bootcamp-dio/blob/main/heineken/Creating%20a%20Conceptual%20Database%20Design%20%E2%80%93%20E-COMMERCE/readme.md)**
 - Description: Refine the presented model by adding the following points:
 
   - Customer Type (PJ & PF) – An account can either be a legal entity (PJ) or an individual (PF), but it cannot have both types of information simultaneously.
