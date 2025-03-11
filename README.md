@@ -9,10 +9,28 @@
 <h3>Projects:</h3>
 <hr>
 
+
+<!-- Project 2 -->
+
+  <table>
+      <td><img src="https://assets.dio.me/YZTEMIvMzvXw41dq2q3AAC-Kc0f_afWxFRJ7szLIVbE/f:webp/h:120/q:80/L3RyYWNrcy80MTI1NTBkYy03ZjA4LTRmNDgtYTMxMi1jOThjZDVlMTlmMGUucG5n" width="550" alt="Power Tech Logo"></td>
+      <td>
+        <h3><a href="https://github.com/otaviomuraca/bootcamp-dio/tree/main/heineken">Heineken - Artificial Intelligence Applied to Data with Copilot</a></h3>
+        <p>Discover the potential of artificial intelligence applied to data and learn how to transform raw information into strategic decisions! From fundamental concepts to advanced strategies, you will master the creation of efficient SQL queries, automate analyses with Microsoft Copilot, and transform large volumes of data into strategic insights using ETL processes. Work with real datasets, develop professional dashboards, and enhance your portfolio with six hands-on projects that showcase the most in-demand skills in the data market.</p>
+      </td>
+    </tr>
+  </table>
+
+</ol>
+
+<!-- END Project  -->
+
+
+
 <!-- Project 1 -->
 
   <table>
-      <td><img src="https://hermes.dio.me/tracks/f5dba255-da18-427a-a02a-ca11a339c1cd.png" width="330" alt="Power Tech Logo"></td>
+      <td><img src="https://hermes.dio.me/tracks/f5dba255-da18-427a-a02a-ca11a339c1cd.png" width="350" alt="Power Tech Logo" width=40></td>
       <td>
         <h3><a href="https://github.com/otaviomuraca/bootcamp-dio/tree/main/potencia-tech-powered-by-ifood">Power Tech powered by iFood | Data Science</a></h3>
         <p>The Tech Power powered by iFood: Data Science with Python is especially aimed at people from low-income and underrepresented groups, but all interested people are welcome! Our goal is to connect you with technologies in high demand in today's market and to be the starting point for your journey in the world of technology.</p>
